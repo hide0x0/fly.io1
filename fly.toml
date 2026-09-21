@@ -1,4 +1,4 @@
-app = "evaluation-service-staging"
+app = "evaluation-service-staging11"
 
 primary_region = "iad"
 
