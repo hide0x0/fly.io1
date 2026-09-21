@@ -1,4 +1,4 @@
-app = "take-by-me"
+app = "evaluation-service-staging"
 
 primary_region = "iad"
 
